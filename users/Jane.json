@@ -1,0 +1,12 @@
+{
+	"Name": "Jane",
+	"Age": 26,
+	"Contact": "453341567",
+	"Company": "Twilio",
+	"Address": {
+		"City": "Bangalore",
+		"State": "Karnataka",
+		"Country": "India",
+		"PinCode": 400017
+	}
+}

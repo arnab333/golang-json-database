@@ -1,0 +1,12 @@
+{
+	"Name": "Harry",
+	"Age": 25,
+	"Contact": "322444567",
+	"Company": "Google",
+	"Address": {
+		"City": "Hyderabad",
+		"State": "Telangana",
+		"Country": "India",
+		"PinCode": 500019
+	}
+}

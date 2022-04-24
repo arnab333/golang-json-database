@@ -1,0 +1,12 @@
+{
+	"Name": "Paul",
+	"Age": 27,
+	"Contact": "422444567",
+	"Company": "Adobe",
+	"Address": {
+		"City": "Mumbai",
+		"State": "Maharastra",
+		"Country": "India",
+		"PinCode": 485669
+	}
+}

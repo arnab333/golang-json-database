@@ -1,0 +1,12 @@
+{
+	"Name": "Arnab",
+	"Age": 29,
+	"Contact": "322444566",
+	"Company": "DAPL",
+	"Address": {
+		"City": "Kolkata",
+		"State": "W.B.",
+		"Country": "India",
+		"PinCode": 755855
+	}
+}

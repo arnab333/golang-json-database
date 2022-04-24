@@ -1,0 +1,12 @@
+{
+	"Name": "Rahul",
+	"Age": 28,
+	"Contact": "453444567",
+	"Company": "IBM",
+	"Address": {
+		"City": "Pune",
+		"State": "Maharastra",
+		"Country": "India",
+		"PinCode": 610019
+	}
+}
